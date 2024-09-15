@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm sznabi</h1>
 <h3 align="center">🌱 A student learning software development at the Unviversity of Szeged.</h3>
 
-- 🔭 I’m currently working on **a portfolio site.**
+- 🔭 I’m currently working on **a webshop.**
 - 📫 How to reach me **nagyszabolcsb@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
