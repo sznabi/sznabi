@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm sznabi</h1>
-<h3 align="center">🌱 A student learning software development at the Unviversity of Szeged.</h3>
+<h3 align="center">🌱 A student learning software development at Unviversity of Szeged.</h3>
 
 - 📫 How to reach me **nagyszabolcsb@gmail.com**
 
